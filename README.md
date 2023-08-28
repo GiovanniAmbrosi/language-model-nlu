@@ -10,6 +10,7 @@ The baseline is set to 90.7 Perplexity score achieved on the Penn Tree Bank Data
 * Colab Notebook implementing a Language Model framework (outputs plotted)
 * PTB dataset used in the project
 * Report in pdf format
+* Link to trained models
 
 All the trained models are available at the following link:
 https://drive.google.com/drive/folders/1sgdyn7TrSPTUHaMYgeTe6_zGgorFW1gV?usp=sharing
