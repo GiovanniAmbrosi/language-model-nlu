@@ -1,4 +1,4 @@
-# NLU_project
+# Language Model
 This is the final repository for the Natural Language Understanding course project.
 
 Content:
