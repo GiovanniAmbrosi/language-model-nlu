@@ -2,8 +2,9 @@
 This is the final repository for the project delivery of the Natural Language Understanding course at the University of Trento.
 
 # Language Model
-The project focuses on the implementation of a Language Model framework using the Penn Tree Bank Dataset. </br>
-The objective is to implement a Neural Network (in this case a LSTM) and to regularize it in order to obtain the best possible result. The baseline is set to 90.7 Perplexity score.
+The project focuses on the implementation of a Language Model framework. </br>
+The objective is to implement a Neural Network (in this case a LSTM) and to regularize it in order to obtain the best possible result.</br>
+The baseline is set to 90.7 Perplexity score achieved on the Penn Tree Bank Dataset.
 
 # Content
 * Colab Notebook implementing a Language Model framework (outputs plotted)
