@@ -1,6 +1,6 @@
 # About
 This is the final repository for the project delivery of the Natural Language Understanding course at the University of Trento.
-The project focuses on the implementation of a Language Model framework using a Recurrent Neural Network structure.  </br>
+The project focuses on the implementation of a Language Model framework using a Recurrent Neural Network of your choice (in this case a Long-Short-Term-Memory).  </br>
 The objective is to regularize the model properly in order to outperform the baseline of 90.7 Perplexity score.</br>
 
 # Content
