@@ -2,7 +2,7 @@
 This is the final repository for the Natural Language Understanding course project.
 
 # Content:
-* Colab Notebook implementing a Language Model framework
+* Colab Notebook implementing a Language Model framework (outputs plotted)
 * PTB dataset used in the project
 * Report in pdf format
 
