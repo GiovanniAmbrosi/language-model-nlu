@@ -3,7 +3,7 @@ This is the final repository for the project delivery of the Natural Language Un
 
 # Language Model
 The project focuses on the implementation of a Language Model framework using the Penn Tree Bank Dataset. </br>
-The objective is to implement a Neural Network (in this case a LSTM) to predict the next word given a sequence of previous words and to regularize the model in order to obtain the best possible result. The baseline is set to 90.7 Perplexity score.
+The objective is to implement a Neural Network (in this case a LSTM) and to regularize it in order to obtain the best possible result. The baseline is set to 90.7 Perplexity score.
 
 # Content
 * Colab Notebook implementing a Language Model framework (outputs plotted)
