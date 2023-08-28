@@ -4,5 +4,5 @@ This is the final repository for the Natural Language Understanding course proje
 # Content:
 * Colab Notebook implementing a Language Model framework
 * PTB dataset used in the project
-* pk files of the trained models
 * Report in pdf format
+All the trained models are available at the following link:
